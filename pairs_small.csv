@@ -1,0 +1,121 @@
+a_first_name,a_last_name,a_dob,a_city,a_mobile,b_first_name,b_last_name,b_dob,b_city,b_mobile,is_match
+Maria,Torres,2001-06-20,Baguio,09974650752,Angel,Torres,1978-09-27,Davao City,09043483954,0
+Paolo,Torres,2003-12-07,Davao City,09377617409,Jose,Torres,1976-10-14,Davao City,09307924402,0
+Rafael,Lim,2002-10-16,Manila,09047439575,Mark,Santos,1978-10-13,Manila,09445166915,0
+Miguel,Dela Cruz,1990-07-01,Quezon City,09881817414,Rafael,Lim,2002-10-16,Manila,09047439575,0
+Angel,Lopez,1986-07-25,Taguig,09952890786,Rannie,Lopez,1983-12-25,Taguig,09704718746,0
+Ramon,Garcia,2004-09-06,Iloilo,09606883106,Mon,Garcia,2004-09-06,Iloilo,09606883106,1
+Jose,Garcia,1992-06-15,Pasig,09837576283,Mark,Garcia,1987-09-06,Quezon City,09760313721,0
+Angel,Ramos,2000-04-28,Baguio,09628897514,Angel,Ramos,2000-04-28,Baguio,09628197514,1
+Juan,Reyes,1971-06-13,Makati,09797016877,Miguel,Reyes,1970-03-01,Baguio,09558530435,0
+Ramon,Garcia,2001-09-13,Cebu City,09650201462,Mon,Garcia,2001-09-13,Cebu City,09650201462,1
+Maria,Cruz,1974-05-21,Parañaque,09780175989,Paolo,Cruz,1994-04-18,Parañaque,09539336338,0
+Ramon,Garcia,2001-09-13,Cebu City,09650201462,Miguel,Santos,1985-10-07,Makati,09183654610,0
+Rannie,Tan,1975-11-18,Manila,09579868282,Rannie,Tan,1975-11-18,Manila,09519868282,1
+Carla,Garcia,1990-11-12,Davao City,09441979237,Maria,Torres,1972-09-12,Davao City,09675112532,0
+Jose,Reyes,1976-10-14,Davao City,09307924402,Pepe,REYES,1976-10-14,Davao City,09307924400,1
+Jose,Reyes,1976-10-14,Davao City,09307924402,Carla,Garcia,1990-11-12,Davao City,09441979237,0
+Ben,Gutierrez,1992-07-31,Parañaque,09314366764,Maria,Flores,1996-04-07,Makati,09030824628,0
+Karla,Dela Cruz,1997-10-07,Davao City,09786579754,arla,Dela Cruz,1997-10-07,Davao City,09786579354,1
+Rafael,Navarro,1999-04-17,Iloilo,09116372651,Ramon,Navarro,2004-09-06,Iloilo,09606883106,0
+Maria,Flores,1996-04-07,Makati,09030824628,Ma.,Flores,1996-04-07,Makati,09030824628,1
+Rafael,Lim,2002-10-16,Manila,09047439575,aRfael,Lim,2002-10-16,Manila,09047439585,1
+Rafael,Reyes,1999-12-16,Davao City,09268656355,Rafa,Reys,1999-12-16,Davao City,09268656355,1
+Angel,Navarro,1999-11-05,Manila,09926030926,Grace,Navarro,2001-01-27,Manila,09788783848,0
+Juan,Reyes,1971-06-13,Makati,09797016877,JUAN,Reyes,1971-06-13,Makati,09797016877,1
+Noah,Bautista,1999-06-26,Iloilo,09288200182,Andrea,Bautista,1981-06-22,Baguio,09634786122,0
+Carla,Santos,1996-11-25,Cebu City,09544992070,Paolo,Cruz,1974-11-22,Davao City,09228171800,0
+Paolo,Santos,1977-11-02,Iloilo,09815354930,Paolo,Santos,1977-11-02,Iloilo,09815354930,1
+Rannie,Dela Cruz,1984-08-15,Parañaque,09887180334,aRnnie,dela cruz,1984-08-15,Paraaque,09887180334,1
+Angel,Lopez,1986-07-25,Taguig,09952890786,Gel,Lopez,1986-07-25,Taguig,09952890726,1
+Carla,Navarro,1979-06-15,Quezon City,09912845298,Carla,Navarro,1979-06-15,Quezon City,09912845298,1
+Carla,Ramos,1990-01-28,Cebu City,09616751361,Angel,Ramos,1988-07-26,Cebu City,09364507495,0
+Grace,Lopez,1970-11-03,Pasig,09290222791,Noah,Lopez,1999-06-26,Iloilo,09288200182,0
+Paula,Flores,2003-10-06,Cebu City,09470822765,Paula,Flores,2003-10-06,Cebu City,09470822765,1
+Ben,Gutierrez,1992-07-31,Parañaque,09314366764,Jose,Torres,1986-06-01,Parañaque,09587706589,0
+Mark,Tan,1987-09-06,Quezon City,09760313721,Mark,Tan,1987-09-06,Quezon City,09760313721,1
+Ramon,Garcia,2001-09-13,Cebu City,09650201462,Angel,Garcia,1978-09-27,Davao City,09043483954,0
+Paolo,Torres,2003-12-07,Davao City,09377617409,Ramon,Torres,2004-09-06,Davao City,09606883106,0
+Carla,Gutierrez,1983-08-01,Quezon City,09252427316,Carla,GUTIERREZ,1983-08-01,Queozn City,09252427316,1
+Andrea,Mendoza,1981-06-22,Baguio,09634786122,Jose,Mendoza,1992-06-15,Pasig,09837576283,0
+Paolo,Cruz,1978-01-24,Davao City,09194875749,Paolo,Cruz,1978-01-24,Davao City,09194275749,1
+Carla,Flores,1986-11-17,Cebu City,09459571177,Rafael,Flores,1986-09-20,Cebu City,09735570636,0
+Rafael,Mendoza,2000-02-23,Quezon City,09374847771,Rafa,Mendoza,2000-02-23,Quezon City,09374847771,1
+Ben,Gutierrez,1992-07-31,Parañaque,09314366764,ben,Gutierrez,1992-07-31,Parañaque,09314366764,1
+Grace,Flores,1978-08-07,Makati,09439008474,Angel,Flores,1988-07-26,Parañaque,09364507495,0
+Maria,Reyes,1998-07-31,Iloilo,09167800837,Maria,Reyes,1998-07-31,Iloilo,09167890837,1
+Noah,Santos,1992-02-23,Manila,09342366712,noah,Santos,1992-02-23,Manila,09342366712,1
+Maria,Cruz,1974-05-21,Parañaque,09780175989,Maria,cruz,1974-05-21,Parañaque,09780375989,1
+Ben,Garcia,1995-07-17,Manila,09424861114,Ben,Garcia,1995-07-17,Manila,09424861114,1
+Grace,Garcia,2001-01-27,Baguio,09788783848,Angel,Garcia,1982-05-06,Manila,09410423468,0
+Ramon,Gutierrez,1980-11-14,Pasig,09838306400,Ramon,Gutierrez,1980-11-14,Pasig,09838306400,1
+Ramon,Reyes,1987-09-17,Manila,09181590830,Carla,Gutierrez,1983-08-01,Manila,09252427316,0
+Paolo,Cruz,1974-11-22,Davao City,09228171800,Paolo,Cruz,1974-11-22,Davao City,09228171800,1
+Jose,Garcia,1992-06-15,Pasig,09837576283,Pepe,garcia,1992-06-15,Pasig,09837576283,1
+Jose,Torres,1986-06-01,Manila,09587706589,Pepe,torres,1986-06-01,Manila,09587706589,1
+Luisa,Santos,1979-11-22,Quezon City,09373537990,Luisa,Santos,1979-11-22,Quezon Cit,09373537990,1
+Ben,Garcia,1995-07-17,Manila,09424861114,Angel,Garcia,2000-08-14,Makati,09304813734,0
+Noah,Bautista,1999-06-26,Iloilo,09288200182,Noah,Bautista,1999-06-26,Iloilo,09288200182,1
+Andrea,Mendoza,1981-06-22,Baguio,09634786122,Andi,Mendoza,1981-06-22,Baguio,09634786122,1
+Carla,Flores,1986-11-17,Cebu City,09459571177,Carla,flores,1986-11-17,CebuCity,09459571177,1
+Mark,Tan,1987-09-06,Quezon City,09760313721,Rafael,Navarro,1999-04-17,Quezon City,09116372651,0
+Carlo,Dela Cruz,1985-01-16,Makati,09174833801,Carl,Deal Cruz,1985-01-16,Makai,09174833801,1
+Carla,Flores,1986-11-17,Cebu City,09459571177,Angel,Flores,1982-05-06,Cebu City,09410423468,0
+Maria,Flores,1996-04-07,Makati,09030824628,Maria,Tan,1971-07-26,Pasig,09104319554,0
+Ramon,Garcia,2001-09-13,Cebu City,09650201462,Miguel,Santos,1985-10-07,Cebu City,09183654610,0
+Rannie,Dela Cruz,1984-08-15,Parañaque,09887180334,Grace,Dela Cruz,2001-01-27,Parañaque,09788783848,0
+Grace,Flores,1978-08-07,Makati,09439008474,Grace,Floes,1978-08-07,Makati,09439008474,1
+Grace,Garcia,2001-01-27,Baguio,09788783848,Grace,Garia,2001-01-27,Baguio,09788783841,1
+Miguel,Ramos,1974-01-10,Cebu City,09690604431,Angel,Ramos,1999-11-05,Cebu City,09926030926,0
+Maria,Cruz,1974-05-21,Parañaque,09780175989,Angel,Tan,1988-07-26,Parañaque,09364507495,0
+Carla,Garcia,1990-11-12,Davao City,09441979237,Carla,Gracia,1990-11-12,Davao City,09441979237,1
+Miguel,Navarro,1975-01-21,Iloilo,09377602077,miguel,Navarro,1975-01-21,Iloilo,09377602077,1
+Rafael,Bautista,1983-12-28,Quezon City,09215472803,Paula,Bautista,2003-10-06,Cebu City,09470822765,0
+Rafael,Garcia,1986-09-20,Parañaque,09735570636,RAFAEL,Garcia,1986-09-20,Parañaque,09735540636,1
+Noah,Bautista,1999-06-26,Iloilo,09288200182,Ramon,Garcia,2001-09-13,Iloilo,09650201462,0
+Angel,Ramos,2000-04-28,Baguio,09628897514,Maria,Ramos,1998-07-31,Baguio,09167800837,0
+Andrea,Lopez,1972-11-19,Quezon City,09311440242,Maria,Reyes,1998-07-31,Iloilo,09167800837,0
+Ana,Flores,1983-11-03,Parañaque,09219935181,Ana,Flores,1983-11-03,Parañaque,09719935181,1
+Grace,Bautista,1981-01-08,Pasig,09167868433,Grace,Bautist,1981-01-08,Pasig,09167868433,1
+Miguel,Santos,1985-10-07,Makati,09183654610,Migule,Sntos,1985-10-07,Makati,09183654610,1
+Miguel,Santos,1985-10-07,Makati,09183654610,Karla,Santos,1997-10-07,Makati,09786579754,0
+Mark,Tan,1987-09-06,Quezon City,09760313721,Ramon,Tan,2001-09-13,Quezon City,09650201462,0
+Paolo,Santos,1977-03-30,Baguio,09023448347,Miguel,Santos,1975-01-21,Baguio,09377602077,0
+Karla,Lopez,2003-09-01,Cebu City,09965724920,aKrla,Loepz,2003-09-01,Cebu City,09965724920,1
+Juan,Reyes,1971-06-13,Makati,09797016877,Angel,Reyes,1986-07-25,Taguig,09952890786,0
+Maria,Cruz,2000-11-14,Cebu City,09614014193,Jose,Santos,1992-12-18,Cebu City,09252760189,0
+Grace,Torres,1990-12-23,Manila,09465572101,Graec,Torres,1990-12-23,Manila,09465572101,1
+Grace,Garcia,2001-01-27,Baguio,09788783848,Angel,Navarro,1999-11-05,Manila,09926030926,0
+Carla,Santos,1996-11-25,Cebu City,09544992070,Calra,Santos,1996-11-25,Cebu City,09544992070,1
+Angel,Navarro,1999-11-05,Manila,09926030926,Angel,Navarro,1999-11-05,Manila,09920030926,1
+Noah,Bautista,1999-06-26,Iloilo,09288200182,Paolo,Santos,1977-11-02,Iloilo,09815354930,0
+Maria,Tan,1971-07-26,Pasig,09104319554,Ana,Flores,1983-11-03,Pasig,09219935181,0
+Luisa,Santos,1979-11-22,Quezon City,09373537990,Rafael,Reyes,1999-12-16,Quezon City,09268656355,0
+Miguel,Bautista,1970-03-01,Baguio,09558530435,Carla,Bautista,1979-06-15,Baguio,09912845298,0
+Carla,Bautista,2000-04-03,Makati,09143653705,Cara,aButista,2000-04-03,Makati,09143653705,1
+Paolo,Santos,1977-03-30,Baguio,09023448347,Paolo,Santos,1977-03-30,Baguio,09023448347,1
+Rannie,Garcia,1983-12-25,Quezon City,09704718746,Rannie,Garcia,1983-12-25,quezon city,09794718746,1
+Grace,Gutierrez,1989-04-03,Parañaque,09288909310,Grace,Gutierrez,1970-11-03,Parañaque,09290222791,0
+Maria,Santos,1999-11-04,Makati,09849340722,Ma.,Santos,1999-11-04,Makati,09849340722,1
+Grace,Lopez,1970-11-03,Pasig,09290222791,Grace,opez,1970-11-03,Pasg,09290222791,1
+Ramon,Reyes,1987-09-17,Manila,09181590830,amon,Reyes,1987-09-17,Manila,09181590830,1
+Miguel,Ramos,1974-01-10,Cebu City,09690604431,Migs,Ramos,1974-01-10,CebuCity,09190604431,1
+Angel,Ramos,2000-04-28,Baguio,09628897514,Miguel,Ramos,1974-01-10,Baguio,09690604431,0
+Luisa,Santos,1979-11-22,Quezon City,09373537990,Rannie,Tan,1975-11-18,Quezon City,09579868282,0
+Angel,Tan,1988-07-26,Parañaque,09364507495,Gel,Tan,1988-07-26,Parañaque,09364508495,1
+Maria,Torres,2001-06-20,Baguio,09974650752,Ma.,Trres,2001-06-20,Baguio,09974050752,1
+Karla,Dela Cruz,1997-10-07,Davao City,09786579754,Jose,Dela Cruz,1988-10-04,Quezon City,09318609139,0
+Paula,Tan,1994-08-25,Baguio,09268465632,Paula,Tan,1994-08-25,Baguio,09268465635,1
+Mark,Tan,1987-09-06,Quezon City,09760313721,Angel,Tan,2000-04-28,Quezon City,09628897514,0
+Paula,Tan,1994-08-25,Baguio,09268465632,Jose,Garcia,1992-06-15,Pasig,09837576283,0
+Rafael,Mendoza,2000-02-23,Quezon City,09374847771,Ramon,Garcia,2004-09-06,Iloilo,09606883106,0
+Miguel,Dela Cruz,1990-07-01,Quezon City,09881817414,Migs,Del aCruz,1990-07-01,Quezon City,09881817414,1
+Jose,Santos,1992-12-18,Makati,09252760189,ose,Santos,1992-12-18,Makati,09252760181,1
+Maria,Flores,1996-04-07,Makati,09030824628,Paolo,Flores,1994-04-18,Parañaque,09539336338,0
+Carla,Garcia,1990-11-12,Davao City,09441979237,Angel,Cruz,1982-05-06,Manila,09410423468,0
+Angel,Lim,2000-08-14,Makati,09304813734,Angel,Lim,2000-08-14,Makati,09304813734,1
+Maria,Tan,1971-07-26,Pasig,09104319554,Rafael,Lim,2002-10-16,Manila,09047439575,0
+Ramon,Reyes,1987-09-17,Manila,09181590830,Paolo,Reyes,1974-11-22,Davao City,09228171800,0
+Grace,Gutierrez,1989-04-03,Parañaque,09288909310,Grace,Gutierrez,1989-04-03,Parañaqeu,09288909320,1
+Jose,Santos,1992-12-18,Makati,09252760189,Ramon,Santos,1987-09-17,Makati,09181590830,0
+Carla,Ramos,1990-01-28,Cebu City,09616751361,Carla,Rams,1990-01-28,Cebu City,09616751761,1
