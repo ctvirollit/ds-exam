@@ -1,7 +1,9 @@
 # 1‑Hour Data Science Exam
 
 **Title:** Random Forest Entity Matching (Lite)
+
 **Time Limit:** 60 minutes (hard stop)
+
 **Goal:** Train a simple `RandomForestClassifier` that predicts whether two records refer to the **same person**.
 
 ---
