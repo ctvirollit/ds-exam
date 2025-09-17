@@ -35,6 +35,7 @@ python starter.py
 ```
 
 Allowed packages: **pandas, scikit‑learn**. Optional (nice to have, not required): **rapidfuzz, jellyfish**.
+
 Not allowed: AutoML frameworks, deep learning models, external datasets.
 
 ---
